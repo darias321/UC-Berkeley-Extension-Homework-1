@@ -8,9 +8,9 @@ Always leave the code you are editing a little cleaner than you found it.
 To impress clients, you should always go the extra mile and improve their codebase for long term sustainability. Ensure that all links are functioning correctly and clean up the CSS to make it more efficient, consolidating CSS selectors and properties, organizing them to follow the semantic structure of the HTML elements, and including comments before each element or section of the page.
 
 # User Story
-AS A marketing agency
-I WANT a codebase that follows accessibility standards
-SO THAT our own site is optimized for search engines
+AS A marketing agency</br>
+I WANT a codebase that follows accessibility standards</br>
+SO THAT our own site is optimized for search engines</br>
 
 # Acceptance Criteria
 GIVEN a webpage meets accessibility standards</br>
